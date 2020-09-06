@@ -35,8 +35,8 @@
 - [x] Create routes
 - [x] Using Styled Components
 - [x] Connect to GitHub API
-- [ ] Saving in Storage
-- [ ] Navigating in routes
+- [x] Saving in Storage
+- [x] Navigating in routes
 - [ ] Final styles
 - [ ] Listing the issues from API
 
