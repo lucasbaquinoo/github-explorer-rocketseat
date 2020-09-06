@@ -10,16 +10,16 @@
   <img src="https://img.shields.io/github/license/lucasbaquinoo/github-explorer-rocketseat?style=flat-square" />
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
 	🚧  GitHub Explorer 🚀 Em construção...  🚧
 </h4>
 
 <p align="center">
  <a href="#About">About</a> •
- <a href="#Features">Features</a> • 
- <a href="#Technologies">Technologies</a> • 
- <a href="#Contribution">Contribution</a> • 
- <a href="#License">License</a> • 
+ <a href="#Features">Features</a> •
+ <a href="#Technologies">Technologies</a> •
+ <a href="#Contribution">Contribution</a> •
+ <a href="#License">License</a> •
  <a href="#Author">Author</a>
 </p>
 
@@ -33,7 +33,7 @@
 ### Features
 
 - [x] Create routes
-- [ ] Using Styled Components
+- [x] Using Styled Components
 - [ ] Connect to GitHub API
 - [ ] Dealing with errors
 - [ ] Saving in Storage
