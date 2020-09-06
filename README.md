@@ -37,8 +37,8 @@
 - [x] Connect to GitHub API
 - [x] Saving in Storage
 - [x] Navigating in routes
-- [ ] Final styles
-- [ ] Listing the issues from API
+- [x] Final styles
+- [x] Listing the issues from API
 
 # Techlogies
 
