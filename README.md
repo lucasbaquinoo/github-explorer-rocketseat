@@ -11,7 +11,7 @@
 </p>
 
 <h4 align="center">
-	🚧  GitHub Explorer 🚀 Em construção...  🚧
+	🚧  GitHub Explorer 🚀 Under development...  🚧
 </h4>
 
 <p align="center">
